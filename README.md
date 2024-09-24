@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Priyadharshini Manikanadan
+- 👋 Hi, I’m Priyadharshini Manikandan
 - 👀 I’m interested in Learning & Teaching
 - 🌱 I’m currently learning Data Science & Machine Learning
 - 💞️ I’m looking to collaborate on DSA/ML
