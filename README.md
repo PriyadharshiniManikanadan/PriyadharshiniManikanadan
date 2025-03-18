@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Priyadharshini Manikandan
 - 👀 I’m interested in Learning & Teaching
+- 👀 I’m interestedexperienced in the PL/SQL and Power BI
 - 🌱 I’m currently learning Data Science & Machine Learning
 - 💞️ I’m looking to collaborate on DSA/ML
 - 📫 How to reach me [priyamanikandan2206@gmail.com] [https://www.linkedin.com/in/priyadharshini-manikandan/]
